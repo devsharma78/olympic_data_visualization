@@ -4,3 +4,5 @@ pandas
 plotly
 seaborn
 streamlit
+mysql
+base64
